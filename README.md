@@ -68,7 +68,7 @@ Photo Gallery is a simple app that shows the photographs requested from the API 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-To see the demo version, you can a https://hienphan0111.github.io/JS-capstone-project/ 
+To see the demo version : https://rivasbolinga.github.io/JS-capstone-project/
 
 ##  Video Documentation <a name="live-demo"></a>
 
