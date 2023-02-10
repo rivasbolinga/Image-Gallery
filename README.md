@@ -4,7 +4,8 @@
 
 # PHOTO GALLERY <a name="about-project"></a>
 
-![all-devices-black](https://user-images.githubusercontent.com/103900838/217809772-f79b7c14-4266-4126-9529-ba4d90201fe8.png)
+![all-devices-black (1)](https://user-images.githubusercontent.com/103900838/218183377-5203cb47-87c2-4e32-afa0-a74db2f17451.png)
+
 
 
 </div>
