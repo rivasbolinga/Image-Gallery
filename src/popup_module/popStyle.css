@@ -152,17 +152,33 @@ form {
   position: fixed;
   left: 0;
   right: 0;
-  width: 85%;
-  max-width: 1024px;
+  width: 94%;
   overflow-y: scroll;
-  height: 70%;
+  height: 90%;
   z-index: 5;
   border-radius: 30px;
   background: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 59.5%, rgba(100, 46, 122, 0.23) 100.2%);
 }
 .img > img {
-  width: 600px;
+  width: 900px;
   margin: 10px;
+}
+.i-menu > a {
+      
+  font-size: 24px;
+}
+.close {
+  
+  right: 40px;
+  top: 40px;
+  z-index: 7;
+}
+
+.list-comment {
+  width: 500px;
+}
+.comments {
+  width: 500px;
 }
 }
 
