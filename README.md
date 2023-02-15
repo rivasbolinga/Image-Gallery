@@ -44,7 +44,8 @@ Photo Gallery is a simple app that shows the photographs requested from the API 
 ### Tech Stack <a name="tech-stack"></a>
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
-
+<a href="https://webpack.js.org/" target="_blank"><img align="center" src="https://github.com/webpack/media/blob/master/logo/icon.svg" alt="webpack" width="55" height="55"/></a>
+<a href="https://jestjs.io/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103900838/219062261-8a9b9a82-2967-4e21-abff-42005e4e6048.svg" alt="jest" width="55" height="55"/></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
