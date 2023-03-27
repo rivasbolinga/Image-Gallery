@@ -35,7 +35,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [PHOTO GALLERY] <a name="about-project"></a>
+# 📷 PHOTO GALLERY <a name="about-project"></a>
 
 Photo Gallery is a simple app that shows the photographs requested from the API https://picsum.photos. This project is the final Capstone Project of The JavaScript module from Microverse program's curriculum and has been done as a group Project by Andrea Rivas and Hien Phan.
 
@@ -54,28 +54,26 @@ Photo Gallery is a simple app that shows the photographs requested from the API 
 
 ### Key Features <a name="key-features"></a>
 
-- [ ] **[Receiving photographs from API https://picsum.photos and render them in our app]**
-- [ ] **[Pop up window when you press button "Comments" ]**
-- [ ] **[Pop up window that renders all the info of the photography and the comments and a form to add your comment!]**
-- [ ] **[Sending the comments to the API: https://us-central1-involvement-api.cloudfunctions.net/ to be able to display them in the modal]**
-- [ ] **[Add likes when you press the heart like button]**
-- [ ] **[Likes are sent to the API https://us-central1-involvement-api.cloudfunctions.net/, and then we receive them in our counter likes]**
-- [ ]  **[Counter of the items displayed at the top of the home page]**
-- [ ]   **[Counter of items function tested with jest]**
-- [ ]    **[Counter of the comments in each modal]**
-- [ ]    **[Counter of comments function tested with jest]**
+- [ ] **Receiving photographs from API https://picsum.photos and render them in our app**
+- [ ] **Pop up window when you press button "Comments"**
+- [ ] **Pop up window that renders all the info of the photography and the comments and a form to add your comment!**
+- [ ] **Sending the comments to the API: https://us-central1-involvement-api.cloudfunctions.net/ to be able to display them in the modal**
+- [ ] **Add likes when you press the heart like button**
+- [ ] **Likes are sent to the API https://us-central1-involvement-api.cloudfunctions.net/, and then we receive them in our counter likes**
+- [ ] **Counter of the items displayed at the top of the home page**
+- [ ] **Counter of items function tested with jest**
+- [ ] **Counter of the comments in each modal**
+- [ ] **Counter of comments function tested with jest**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-To see the demo version : https://rivasbolinga.github.io/JS-capstone-project/
+To see the demo version [here](https://rivasbolinga.github.io/JS-capstone-project/)
 
 ##  Video Documentation <a name="live-demo"></a>
 
-Here we explain you our project!
-
-https://drive.google.com/file/d/1M_C1MTr86qxF2wS3QZc8wYBOwot-4FcU/view?usp=sharing
+You can see a video demo 🎥 [here](https://drive.google.com/file/d/1M_C1MTr86qxF2wS3QZc8wYBOwot-4FcU/view?usp=sharing)
 
 <!-- GETTING STARTED -->
 
@@ -200,7 +198,5 @@ Thank you so much!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/hienphan0111/JS-capstone-project/blob/dev/MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
