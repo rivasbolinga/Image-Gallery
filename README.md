@@ -173,7 +173,7 @@ npm run deploy
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank - [ Microverse]
+I would like to thank
  **![](https://img.shields.io/badge/Microverse-blueviolet)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -182,7 +182,7 @@ I would like to thank - [ Microverse]
 ## ⭐️ Show your support <a name="support"></a>
 
 <!-- > Write a message to encourage readers to support your project -->
-HAppy to have you here! If you like this project please Give us a ⭐️ !
+Happy to have you here! If you like this project please Give us a ⭐️ !
 Thank you so much!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
