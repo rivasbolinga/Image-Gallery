@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# PHOTO GALLERY <a name="about-project"></a>
+# IMAGE GALLERY <a name="about-project"></a>
 
 ![all-devices-black (1)](https://user-images.githubusercontent.com/103900838/218183377-5203cb47-87c2-4e32-afa0-a74db2f17451.png)
 
