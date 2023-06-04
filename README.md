@@ -34,7 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📷 PHOTO GALLERY <a name="about-project"></a>
+# 📷 IMAGE GALLERY <a name="about-project"></a>
 
 Photo Gallery is a simple app that shows the photographs requested from the API https://picsum.photos. This project is the final Capstone Project of The JavaScript module from Microverse program's curriculum and has been done as a group Project by Andrea Rivas and Hien Phan.
 
